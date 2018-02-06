@@ -10,35 +10,35 @@ class Repository {
     private String description;
     private int stars;
 
-    public String getAvatar() {
+    String getAvatar() {
         return avatar;
     }
 
-    public void setAvatar(String avatar) {
+    void setAvatar(String avatar) {
         this.avatar = avatar;
     }
 
-    public String getRepoName() {
+    String getRepoName() {
         return repoName;
     }
 
-    public void setRepoName(String repoName) {
+    void setRepoName(String repoName) {
         this.repoName = repoName;
     }
 
-    public String getDescription() {
+    String getDescription() {
         return description;
     }
 
-    public void setDescription(String description) {
+    void setDescription(String description) {
         this.description = description;
     }
 
-    public int getStars() {
+    int getStars() {
         return stars;
     }
 
-    public void setStars(int stars) {
+    void setStars(int stars) {
         this.stars = stars;
     }
 }
