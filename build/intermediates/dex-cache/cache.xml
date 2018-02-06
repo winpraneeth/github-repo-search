@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="caa03787689212c10939f308a55a8dc8a3333ed2">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-27.0.2_103343aa45c9e6947f70c7946faf68d4f276c287.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\27.0.2\b9ef4342c934a1a8b107506273dc8061662a322\support-annotations-27.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="0b9ef4342c934a1a8b107506273dc8061662a322">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\support-annotations-27.0.2_34041b5b2f6748c385ae91901e6cbaf1eff78aaa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.github.bumptech.glide\glide\4.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="4e55e25a0a3e509ebfa4126e5027993ea6d425f7">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.github.bumptech.glide-glide-4.6.1_74cbf7d695cb3a995ed62098fdc8ffdf04eeadcc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="14bfdbf5594d4d7c320de20831849050788ab1e3">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-27.0.2_491d1beff02e076bcba597f34c5e7b7c66656ebd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9296d6f092fcdba4fafb6ac26546a39babdab46a">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-27.0.2_c305114df77deb5d1437b378c1a29611874a5cd9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support.constraint-constraint-layout-1.0.2_b3d29cfc3972856bb709578a907eca8c333a6e39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.volley\volley\1.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.volley-volley-1.1.0_12aabb2d1528bc771cc4cc211958aec9a7faaf4a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.github.bumptech.glide\gifdecoder\4.6.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d69444102ef9ffc0388fd027d3fe44e87b43a1f0">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.github.bumptech.glide-gifdecoder-4.6.1_dbb93d5e89ab66a85166c5be1e14f0a3107d7103.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_116bbf12ac71cad9adc9db54a3e79d319a9d5fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="04cd0cacbedcb338f64665b88bad64d145325fbd">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-27.0.2_9be9cae21c1d0600e500cd8674778b3712d3c861.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="fe3916317a699975bcce0cba2d13fd2d8cf88922">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-27.0.2_d0f6da68f3cbbe89e720460f41e242d7a35e2f1d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\support-compat\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="b432e82447a3af781e927b9ba0bbb9fe2a496d4a">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-27.0.2_9c32fd617d56c47ed1b0405d1b3eb187915b04af.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\gson-2.8.2_1a349df391509b4808fe2a752c90453b037062a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.3\7d7f60c4783872861222166f6164215f8951c7b1\common-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="7d7f60c4783872861222166f6164215f8951c7b1">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\common-1.0.3_60087864b642adcac2c1c7404fdf1fcdaf54690d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\android.arch.lifecycle\runtime\1.0.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="d7cc5473b9cf4ea159a263cd477fb3ecb2987b96">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\android.arch.lifecycle-runtime-1.0.3_7ac3a2555386d481d6de68c7ed4bc5cea9cd969d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\disklrucache\4.6.1\2f82d433b9dae134a9b32039a6b5b38abe8a1c46\disklrucache-4.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="2f82d433b9dae134a9b32039a6b5b38abe8a1c46">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\disklrucache-4.6.1_21e3fd507c67a040e69eb05fcd7a167fecbd36cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\annotations\4.6.1\278bafb890704b66a1d6a8a98d0790f940aa5a22\annotations-4.6.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="278bafb890704b66a1d6a8a98d0790f940aa5a22">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\annotations-4.6.1_cf4d5a9a91a563d1951a5606f71392ce38c34ac3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ac2ce6027755bcf49442e70597bec0feb9064f68">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-27.0.2_223d1f26670dab75c4f1749338f86c5fb733cd04.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\support-fragment\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="618f75fe11febf263e3234c7da7dc892232a5608">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-27.0.2_c222e5af9920f4f5bf15b30525587f0d56511377.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\27.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="ed6560f31a6a40b5965f5879d8f2eab1f68def05">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-27.0.2_87514f05c1fba6d67bdad5c013fe67ae344cf496.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\common-1.0.0_852438a3f46067657ba3dfdbb8577eac538ece66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\exploded-aar\com.intuit.sdp\sdp-android\1.0.5\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="27.0.3"
+        sha1="cd438c6f60250715412caab24d2ba9143df748e2">
+        <dex dex="C:\Users\winpr\Desktop\AndroidProjects\GithubRepoSearch\app\build\intermediates\pre-dexed\debug\com.intuit.sdp-sdp-android-1.0.5_ce39db2901a1d8b652a2d8d901dd28b091672fee.jar" />
+    </item>
+
+</items>
